@@ -1,0 +1,303 @@
+@media screen and (max-width: 1200px) {
+    nav a {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    h1 {
+        font-size: 20px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    .main__items {
+        margin-top: 75px;
+        padding-bottom: 55px;
+    }
+
+    a {
+        font-size: 16px;
+    }
+
+    .button {
+        margin: 45px 0;
+    }
+
+    .button a {
+        padding: 15px;
+    }
+
+    nav a {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .count {
+        font-size: 14px;
+    }
+
+    .opacitybg div {
+        width: 75%;
+    }
+
+    .yellow {
+        padding: 55px 0;
+    }
+
+    .container {
+        max-width: 80%;
+    }
+
+    .number {
+        font-size: 14px;
+    }
+
+    .textUs {
+        padding: 20px 20px;
+    }
+
+    .about__us__items {
+        padding: 120px 0;
+    }
+
+    .privacy__policy {
+        font-size: 14px;
+    }
+
+    footer {
+        height: 100px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main__items {
+        margin-top: 55px;
+        padding-bottom: 40px;
+    }    
+
+    .icon {
+        width: 32%;
+    }
+
+    .name {
+        margin: 0 0 5px 0;
+    }
+
+    nav a {
+        display: none;
+    }
+
+    .hamburger-menu {
+        visibility: visible;
+    }
+
+    .box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 100px 0;
+    }
+
+    .box {
+        flex-direction: column;
+        padding: 80px 0;
+    }
+
+    .yellow {
+        width: 100%;
+        border-radius: 30px 30px 0 0;
+        padding: 30px 0 15px 0;
+    }
+
+    .answer {
+        margin: 15px;
+        padding: 15px 0;
+        border-radius: 15px;
+    }
+    
+    .white {
+        min-width: 100%;
+        border-radius: 0 0 30px 30px;
+        padding: 10px 0;
+    }
+
+    .white img {
+        display: none;
+    }
+
+    .white p {
+        display: none;
+    }
+
+    .about__us__items {
+        flex-direction: column-reverse;
+        padding: 80px 0;
+    }
+
+    .textUs {
+        width: 80%;
+    }
+
+    .honey__icon {
+        width: 45%;
+        margin-bottom: 5px;
+    }
+
+    .background__products {
+        padding: 30px 0;
+    }
+
+    .items:first-child, 
+    .items:last-child {
+        margin: 30px 10px 30px 10px;
+    }
+
+    footer {
+        height: 150px;
+    }
+
+    .footer {
+        flex-direction: column;
+    }
+
+    .footer .number {
+        margin: 10px 0;
+    }
+
+}
+
+@media screen and (max-width: 545px) {
+    h1 {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    a {
+        font-size: 14px;
+    }
+
+    .container {
+        width: 90%;
+    }
+
+    .header {
+        padding-top: 20px;
+    }
+
+    .icon {
+        width: 38%;
+    }
+
+    .menu__btn {
+        top: 28px;
+        right: 55px;
+    }
+    
+    .menu__box {
+        width: 200px;
+    }
+
+    .underline {
+        width: 45%;
+        height: 1px;
+        margin: 3px 0 5px 0;
+    }
+
+    .main__items {
+        margin-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .button {
+        margin: 35px 0;
+    }
+
+    .button a {
+        border: 1px solid black;
+    }
+
+    .opacitybg {
+        padding: 15px 0;
+    }
+
+    .opacitybg p {
+        font-weight: 600;
+    }
+
+    .opacitybg div {
+        width: 90%;
+    }
+
+    .box {
+        padding: 40px 0;
+    }
+
+    .yellow {
+        padding: 15px 0 15px 0;
+    }
+
+    .answer {
+        margin: 5px;
+        padding: 10px 0;
+    }
+
+    .white {
+        padding: 5px 0;
+    }
+
+    .number {
+        font-size: 12px;
+    }
+
+    .name {
+        margin: 0;
+    }
+
+    .about__us__items {
+        padding: 30px 0;
+    }
+
+    .textUs {
+        padding: 15px 20px;
+    }
+
+    .background__products {
+        padding: 20px 0;
+    }
+
+    .items, .items:first-child, .items:last-child {
+        margin: 15px 10px 15px 10px;
+    }
+
+    .privacy__policy {
+        font-size: 12px;
+    }
+
+    .menu__btn {
+        top: 22px;
+        right: 40px;
+    }
+    
+    .menu__box {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .icon {
+        width: 47%;
+    }
+}
